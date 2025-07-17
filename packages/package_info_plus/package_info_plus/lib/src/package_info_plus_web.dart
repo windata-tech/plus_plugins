@@ -3,7 +3,7 @@ import 'dart:ui_web';
 
 import 'package:clock/clock.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-import 'package:http/http.dart';
+// import 'package:http/http.dart';
 import 'package:package_info_plus_platform_interface/package_info_data.dart';
 import 'package:package_info_plus_platform_interface/package_info_platform_interface.dart';
 import 'package:web/web.dart' as web;
